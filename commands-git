@@ -1,0 +1,5 @@
+git clone <URL>
+
+git add --all
+git commit -m <Description>
+git push
