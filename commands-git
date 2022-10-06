@@ -7,4 +7,4 @@ git push
 git pull
 
 git branch add-create-branch-command
-git checkout <Nom de la branche>
+git checkout add-create-branch-command
